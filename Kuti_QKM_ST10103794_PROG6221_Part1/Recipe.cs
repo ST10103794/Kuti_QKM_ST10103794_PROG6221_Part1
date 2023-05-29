@@ -12,6 +12,7 @@ namespace Kuti_QKM_ST10103794_PROG6221_Part1
     // the keys are forgotten or not recorded. hence I added a 'name' and 'step number' field in the class 
     // and struct !!!
 
+    // this interface was made to utilize the unit test, but it got complicated...
     public interface IRecipe { }
 
     // interface to make both recipe steps and ingredient be recorded in one list
