@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace Kuti_QKM_ST10103794_PROG6221_Part1.Tests
 {
+// I dont really understand how to use unit testing ...
     [TestClass()]
     public class RecipeTests
     {
